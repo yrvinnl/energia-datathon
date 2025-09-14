@@ -1,0 +1,6 @@
+pandas
+panel
+folium
+io
+geopandas
+shapeli
